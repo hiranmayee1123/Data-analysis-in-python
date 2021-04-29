@@ -1,0 +1,2 @@
+Data Visualization is the presentation of data in graphical format. It helps people understand the significance of data by summarizing and presenting huge amount of data in a simple and easy-to-understand format and helps communicate information clearly and effectively.
+Here is the code using Matplotlib and pandas libraries to analyse data using various charts like histogram,column chart,box-plot chart,pie chart,scatter plot
