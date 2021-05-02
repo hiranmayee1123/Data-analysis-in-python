@@ -1,0 +1,13 @@
+There are some important math operations that can be performed on a pandas series to simplify data analysis using Python and save a lot of time.
+Function	Use
+s.sum()	Returns sum of all values in the series
+s.mean()	Returns mean of all values in series. Equals to s.sum()/s.count()
+
+s.std()	Returns standard deviation of all values
+s.min() or s.max()	Return min and max values from series
+s.idxmin() or s.idxmax()	Returns index of min or max value in series
+s.median()	Returns median of all value
+s.mode()	Returns mode of the series
+s.value_counts()	Returns series with frequency of each value
+
+s.describe()	Returns a series with information like mean, mode etc depending on dtype of data passed
